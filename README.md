@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full-stack development.
 - 💞️ I’m looking to collaborate on any project that I can use my skills to help progress.
 - 📫 How to reach me 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am as cool as a pack of peppermints
 
 <!---
 notAnotherAverageJoe/notAnotherAverageJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
