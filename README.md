@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @notAnotherAverageJoe
 - 👀 I’m interested in just about every programming language, I have a passion for code and learning.
   It appears that this is a field as wide as the ocean and just as deep.
-- 🌱 I’m currently learning Full-stack development.
+- 🌱 I’m currently learning Full-stack development. Embedded programming, OTP, and much more, the learning never stops!
 - 💞️ I’m looking to collaborate on any project that I can use my skills to help progress.
-- 📫 How to reach me 
+- 📫 How to reach me - joeskokan20@gmail.com
 - ⚡ Fun fact: I am as cool as a pack of peppermints
 
 <!---
