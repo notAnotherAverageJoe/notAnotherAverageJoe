@@ -28,9 +28,21 @@
 <a href="https://www.php.net/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
 </a>
-<a href="https://www.erlang.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Erlang_logo.svg" alt="Erlang Logo" width="50" />
-</a>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <!-- Background Circle -->
+  <circle cx="20" cy="20" r="18" fill="#A90533" />
+  <text x="20" y="26" fill="#FFFFFF" font-size="20" font-family="Arial" text-anchor="middle" font-weight="bold">
+    e
+  </text>
+
+  <!-- Text "Erlang" -->
+  <text x="40" y="25" fill="#A90533" font-size="16" font-family="Arial, sans-serif" font-weight="bold">
+    Erlang
+  </text>
+
+  <!-- Decorative line -->
+  <line x1="40" y1="28" x2="100" y2="28" stroke="#A90533" stroke-width="2" />
+</svg>
 
 <a href="https://en.wikipedia.org/wiki/COBOL">
     <img src="https://via.placeholder.com/150?text=COBOL" alt="COBOL" width="50" />
