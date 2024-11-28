@@ -6,7 +6,7 @@
 - 📫 How to reach me - joeskokan20@gmail.com
 - ⚡ Fun fact: I am as cool as a pack of peppermints
 
-### My Favorite Programming Languages
+### My Programming Languages
 
 <a href="https://www.ruby-lang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="50" />
@@ -29,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
 </a>
 <a href="https://www.erlang.org/">
-    <img src="assets/erlang_custom.svg" alt="Erlang Logo" width="120" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Erlang_logo.svg" alt="Erlang" width="50" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/COBOL">
