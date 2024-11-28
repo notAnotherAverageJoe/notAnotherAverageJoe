@@ -6,7 +6,8 @@
 - 📫 How to reach me - joeskokan20@gmail.com
 - ⚡ Fun fact: I am as cool as a pack of peppermints
 
-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)[🐧 Linux Kernel](https://www.kernel.org/)
+
 
 
 <!---
