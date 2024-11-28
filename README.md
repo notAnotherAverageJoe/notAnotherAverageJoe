@@ -22,7 +22,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" />
 </a>
 
-
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" width="50" />
+</a>
+<a href="https://www.php.net/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
+</a>
+<a href="https://www.erlang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Erlang_logo.svg" alt="Erlang" width="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/COBOL">
+    <img src="https://via.placeholder.com/150?text=COBOL" alt="COBOL" width="50" />
+</a>
 
 <!---
 notAnotherAverageJoe/notAnotherAverageJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
