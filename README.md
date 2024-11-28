@@ -6,7 +6,18 @@
 - 📫 How to reach me - joeskokan20@gmail.com
 - ⚡ Fun fact: I am as cool as a pack of peppermints
 
-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)[🐧 Linux Kernel](https://www.kernel.org/)
+### My Favorite Programming Languages
+
+<a href="https://www.ruby-lang.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="50" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" />
+</a>
+<a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
+</a>
+
 <a href="https://www.kernel.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" />
 </a>
