@@ -7,6 +7,9 @@
 - ⚡ Fun fact: I am as cool as a pack of peppermints
 
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)[🐧 Linux Kernel](https://www.kernel.org/)
+<a href="https://www.kernel.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" />
+</a>
 
 
 
