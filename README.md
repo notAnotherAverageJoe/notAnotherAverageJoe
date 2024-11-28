@@ -29,13 +29,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
 </a>
 <a href="https://www.erlang.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Erlang_logo.svg" alt="Erlang" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Erlang_logo.svg" alt="Erlang Logo" width="50" />
 </a>
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="50" viewBox="0 0 100 50">
-    <rect width="100" height="50" fill="#003399" />
-    <text x="50" y="30" fill="white" font-size="20" font-family="Arial" text-anchor="middle">COBOL</text>
-</svg>
 
+<a href="https://en.wikipedia.org/wiki/COBOL">
+    <img src="https://via.placeholder.com/150?text=COBOL" alt="COBOL" width="50" />
+</a>
 
 <!---
 notAnotherAverageJoe/notAnotherAverageJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
