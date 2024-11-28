@@ -32,11 +32,7 @@
   <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 100 100">
     <!-- Circular background -->
     <circle cx="50" cy="50" r="48" fill="#A90533" />
-    
-    <!-- Emoji-like E -->
-    <text x="50" y="65" font-size="60" font-family="Arial, sans-serif" text-anchor="middle" fill="#FFFFFF" font-weight="bold">
-      E
-    </text>
+
   </svg>
 </a>
 
