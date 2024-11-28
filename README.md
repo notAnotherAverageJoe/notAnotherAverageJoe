@@ -28,8 +28,8 @@
 <a href="https://www.php.net/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
 </a>
-<a href="https://www.erlang.org/">
-    🚀 E 🛠️
+<a href="https://www.erlang.org/" width="50">
+    🚀 Erlang 🛠️
 </a>
 
 <a href="https://en.wikipedia.org/wiki/COBOL">
