@@ -29,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" />
 </a>
 <a href="https://www.erlang.org/">
-    <img src="E 🛠️" alt="Erlang Logo" width="120" />
+    🚀 E 🛠️
 </a>
 
 <a href="https://en.wikipedia.org/wiki/COBOL">
