@@ -21,7 +21,8 @@
 <a href="https://www.kernel.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="50" />
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/C_Sharp_logo.svg" alt="C# Logo" width="100" /> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
+C# / .NET </a>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" width="50" />
