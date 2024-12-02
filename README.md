@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @notAnotherAverageJoe
-- 👋 Hola, soy Joe!👋 
+- 👋 Hola, soy Joe!👋
+- Educational Cryptocurrency Platform -> Bit Buddy https://www.thebitbuddy.com/
 - 👀 I’m interested in just about every programming language, I have a passion for code and learning.
   It appears that this is a field as wide as the ocean and just as deep.
 - 🌱 I’m currently learning Full-stack development. Embedded programming, OTP, and much more, the learning never stops!
