@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @notAnotherAverageJoe
-- 👋 Hola, soy Joe!👋
 - Educational Cryptocurrency Platform -> Bit Buddy https://www.thebitbuddy.com/
 - 👀 I’m interested in Embedded, IOT and low level languages
   It appears that this is a field as wide as the ocean and just as deep.
