@@ -9,9 +9,7 @@
 
 ### My Programming Languages
 
-<a href="https://www.ruby-lang.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="50" />
-</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" />
 </a>
