@@ -39,7 +39,7 @@ C# / .NET </a>
     <img src="https://via.placeholder.com/150?text=COBOL" alt="COBOL" width="50" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Assembly-language-icon.svg" alt="Assembly" width="50" />
+    <span style="font-size: 50px;">⚙️</span> <!-- Assembly emoji -->
 </a>
 <a href="https://isocpp.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" />
