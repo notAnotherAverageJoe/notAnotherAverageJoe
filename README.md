@@ -38,6 +38,12 @@ C# / .NET </a>
 <a href="https://en.wikipedia.org/wiki/COBOL">
     <img src="https://via.placeholder.com/150?text=COBOL" alt="COBOL" width="50" />
 </a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Assembly-language-icon.svg" alt="Assembly" width="50" />
+</a>
+<a href="https://isocpp.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" />
+</a>
 
 <!---
 notAnotherAverageJoe/notAnotherAverageJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
