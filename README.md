@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notAnotherAverageJoe
 - Educational Cryptocurrency Platform -> Bit Buddy https://www.thebitbuddy.com/
-- 👀 I’m interested in Embedded, IOT and low level languages
+- 👀 I’m interested Full Stack development and Embedded, IOT and low level languages
   It appears that this is a field as wide as the ocean and just as deep.
 - 🌱 I’m currently focusing on Embedded systems, C, C++ and ASM both intel and AT&T syntax x64
 - 💞️ I’m looking to collaborate on embedded works or even game dev with C++ and unity
